@@ -1,0 +1,6 @@
+[submodule "writingcenter"]
+	path = Symfony/writingcenter
+	url = https://github.com/betheluniversity/writing-center
+[submodule "sciencelabs"]
+	path = sciencelabs
+	url = https://github.com/betheluniversity/sciencelabs
