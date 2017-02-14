@@ -82,12 +82,8 @@ ul.sidenav > li a:hover {
 	background-color: #c9c9c9;
 }
 
-hr {
-	padding: 0;
-	margin: 1em 1em 1em 1em;
-	border: 0;
-    border-top: 1px solid #eeeeee;
-    border-bottom: 1px solid #ffffff;
+span.fake-link {
+	color: #000000;
 }
 
 .flex-container {
@@ -141,8 +137,13 @@ footer > h5 {
 	    height: auto;
 	    position: relative;
 	}
+
 	.flex-container {
   		margin: 0;
+	}
+
+	span.fake-link {
+		color: #0069AA;
 	}
 
 }
