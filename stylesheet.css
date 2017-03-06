@@ -151,7 +151,7 @@ footer > h5 {
 	}
 }
 
-@media (min-width: 1265px) {
+@media (min-width: 1390px) {
 	footer {
 		position: fixed;
 		text-align: center;
