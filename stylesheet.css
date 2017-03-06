@@ -125,7 +125,7 @@ footer > h5 {
 	text-align: center;
 }
 
-@media (min-width: 410px) {
+@media (min-width: 440px) {
 	a.btn {
 		margin-top: 0px;
 	}
