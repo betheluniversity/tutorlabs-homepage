@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-	text-decoration:underline;
+	text-decoration: none;
 }
 
 .description {
@@ -90,6 +90,12 @@ div.guide > h5 {
 	display: inline-block;
 }
 
+div.guide{
+	background-color: #F5F5F5;
+  	padding: 1.5em 1.5em 2em 1.5em;
+	border-radius: 6px;
+}
+
 div.homepage-info {
 	margin: 1em;
 }
@@ -104,6 +110,11 @@ a.btn {
 
 a.btn:hover {
 	text-decoration: underline;
+}
+
+a.no-decoration:hover{
+	text-decoration: none;
+	cursor: default;
 }
 
 .flex-container {
